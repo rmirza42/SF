@@ -1,0 +1,38 @@
+---
+title: "Data Story_Capstone Project"
+output: html_document
+---
+Introduction:
+List of crime related incidents in SF from 2003 to 2015.
+
+Based on the dataset, I would like to predict the various crime patterns and the nature of Crimes involving juveniles in the southern district of San Francisco. This information would be helpful in identifying the parts of city that need more monitoring by the cops. This information would also be helpful for future residents to have an idea of the possible crime rate in the locality and by doing so making the neighborhood stay more vigilant against crime.
+
+Questions framed based on the data provided in the dataset :
+
+QUESTION 1: 
+Within a particular neighborhood, I would like to know the different types of juvenile crime and the frequency of these crimes on a daily basis (the number of incidents reported for these crimes on each day of the week). Based on this information, I would like to predict the day or days that are highly likely to witness these top 3 juvenile crimes within a particular vicinity.
+GOAL:
+This information will be valuable for the police department to take additional measures to ensure public safety and would help the locals and the future residents stay vigilant.
+
+
+QUESTION 2: 
+I would like to predict how likely criminal cases of various nature can be solved for the top 10 precincts (In terms of the most number cases solved). 
+GOAL:
+The state authorities can view this information to keep track of the do’s & dont’s needed while trying to solve a crime. Additionally, this information will be of immense help while trying to set up new personnel in other precincts.
+
+QUESTION 3: 
+I would like to predict the chances of a Juvenile being the perpetrator/involved in a specific crime.
+GOAL:
+Based on this information, the police department can propose the state authorities to set up rehabilitation and therapy centers to work with these individuals.
+
+QUESTION 4:
+In case of crimes related to weapon laws, I would like to predict the chances of illegal sale of arms at Arms stores that are located within close proximity of the scene of Incidents. Illegal sale or arms would include : POSS OF FIREARM BY CONVICTED FELON/ADDICT/ALIEN, POSS OF PROHIBITED WEAPON, FIREARM WITH ALTERED IDENTIFICATION, AMMUNITION, POSS. BY PROHIBITED PERSON.
+GOAL:
+Based on this information, the police department can cease licenses of such stores which sell illegal arms, thereby making sure the laws for effective gun control are strictly adhered.
+
+
+QUESTION 5:
+I would like to see the patterns(whether increase or decrease) of each crime from the year ’03 to ’15.
+GOAL:
+This data would be helpful in understanding the key areas where there should be more emphasis.
+
